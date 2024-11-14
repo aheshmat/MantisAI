@@ -1,0 +1,2 @@
+# MantisAI
+InterSystems AI Training
